@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSProjectY13", "CSProjectY13\CSProjectY13\CSProjectY13.csproj", "{6B5D5733-66F8-4DD0-90C4-5F697989CFAA}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "CSProjectY13Content", "CSProjectY13\CSProjectY13Content\CSProjectY13Content.contentproj", "{19AEA431-E86E-464E-992C-0B72447475E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B5D5733-66F8-4DD0-90C4-5F697989CFAA}.Debug|x86.ActiveCfg = Debug|x86
+		{6B5D5733-66F8-4DD0-90C4-5F697989CFAA}.Debug|x86.Build.0 = Debug|x86
+		{6B5D5733-66F8-4DD0-90C4-5F697989CFAA}.Release|x86.ActiveCfg = Release|x86
+		{6B5D5733-66F8-4DD0-90C4-5F697989CFAA}.Release|x86.Build.0 = Release|x86
+		{19AEA431-E86E-464E-992C-0B72447475E1}.Debug|x86.ActiveCfg = Debug|x86
+		{19AEA431-E86E-464E-992C-0B72447475E1}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26B91AB0-5CE2-41B3-8290-3FE75AA351D0}
+	EndGlobalSection
+EndGlobal
